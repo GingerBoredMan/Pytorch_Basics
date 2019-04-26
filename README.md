@@ -1,1 +1,1 @@
-# Basics of Pytorch
+# Udacity_Pytorch
