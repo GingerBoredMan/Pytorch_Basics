@@ -3,4 +3,4 @@
 /Cat_Dog_data/
 *.crdownload
 checkpoint.pth
-
+*.pt
